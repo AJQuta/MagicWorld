@@ -37,23 +37,22 @@ A game made up of random smaller pieces of code I've created and various moments
     - [ ] Complete GenericNPCs
     - [ ] Complete QuestNPCs
     - [ ] Complete ExchangeNPCs
-    - [ ] Complete AllyNPCs
-    - [ ] Complete EnemyNPCs
-    - [ ] Complete BossNPCs
+    - [ ] Complete Enemy
+    - [ ] Complete Boss
 
 5. Create FightSystem [Priority4]
     - [ ] Decide how a fight will be implemented (probably turn-based)
-    - [ ] Create EncounterSystem (maybe stealth too?)
-    - [ ] Create DuelSystem
+    - [ ] Create EncounterSystem
 
 6. Create WorldSystem [Priority4]
 
     - [ ] Decide how to generate world (place NPCs, structures, lore pieces, etc.)
     - [ ] Create MapSystem
-    - [ ] Create StructureSystem (if necessary for generating buildings in maps)
+    - [ ] Create RoomSystem
 
 7. Create ItemSystem [Priority5]
     
+    - [ ] Create Weapons
     - [ ] Create Potions
         - [ ] Create StrengthPotions
         - [ ] Create SpeedPotions
