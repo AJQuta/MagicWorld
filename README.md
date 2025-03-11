@@ -27,7 +27,8 @@ A game made up of random smaller pieces of code I've created and various moments
 
 3. Refactor LifeSystem [Priority1]
 
-    - [x] Decide what language to work with **C, C++**
+    - [ ] Decide what language to work with (C and C++, or Javascript?)
+        - [ ] Set it up to make a web game later?
     - [ ] Change all classes to reflect new programming language
     - [ ] Add classes as necessary
 
