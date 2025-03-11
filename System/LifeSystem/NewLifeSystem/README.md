@@ -3,13 +3,14 @@
 ## Base Structure
 
 - LifeForm
-    - Player
-    - Enemy
-        - BossNPCs
-            - MiniBossNPCs [very low priority]
     - Animal
-    - NPCs
+    - Fighter
+        - Player
+        - Enemy
+            - BossNPCs
+                - MiniBossNPCs [very low priority]
         - AllyNPCs
-        - GenericNPCs
         - QuestNPCs
+    - NPCs
+        - GenericNPCs
         - ExchangeNPCs
