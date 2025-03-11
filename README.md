@@ -51,5 +51,14 @@ A game made up of random smaller pieces of code I've created and various moments
     - [ ] Create MapSystem
     - [ ] Create StructureSystem (if necessary for generating buildings in maps)
 
-7. Setup Text-Based Environment for Game [After Completing Everything Else]
+7. Create ItemSystem [Priority5]
+    
+    - [ ] Create Potions
+        - [ ] Create StrengthPotions
+        - [ ] Create SpeedPotions
+        - [ ] Create HealthPotions
+        - [ ] Create ManaPotions
+        - [ ] Create SightPotion
+
+8. Setup Text-Based Environment for Game [After Completing Everything Else]
 
