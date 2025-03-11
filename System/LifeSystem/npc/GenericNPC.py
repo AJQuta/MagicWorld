@@ -1,4 +1,4 @@
-from NPC import NPC
+from .NPC import NPC
 
 class GenericNPC(NPC):
 

@@ -1,4 +1,4 @@
-from conf import MIN_MANA, MIN_FOV, MAX_FOV, MIN_ARMOR
+from ..conf import MIN_MANA, MIN_FOV, MAX_FOV, MIN_ARMOR
 from ..LifeForm import LifeForm
 
 class Fighter(LifeForm):

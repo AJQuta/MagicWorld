@@ -1,4 +1,4 @@
-from conf import MIN_RESISTANCE, MAX_RESISTANCE, MIN_SKILL, MAX_SKILL
+from .conf import MIN_RESISTANCE, MAX_RESISTANCE, MIN_SKILL, MAX_SKILL
 
 class LifeForm:
 

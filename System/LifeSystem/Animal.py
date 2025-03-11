@@ -1,4 +1,4 @@
-from LifeForm import LifeForm
+from .LifeForm import LifeForm
 
 class Animal(LifeForm): 
 
