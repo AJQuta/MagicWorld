@@ -4,7 +4,7 @@ A game made up of random smaller pieces of code I've created and various moments
 
 ## Steps to Continue Working On:
 
-1. Complete PlayerSystem [Priority1]
+1. Complete PlayerSystem [Priority2]
 
     - [ ] Create PlayerClass to hold player information (stats, inventory, position, etc.)
     - [ ] Create KnowledgeSystem to keep track of known and discovered information about the world.
@@ -25,7 +25,7 @@ A game made up of random smaller pieces of code I've created and various moments
     - [ ] Complete An Inquiry into the Darkest Parts of Magic
     - [ ] Complete Void
 
-3. Refactor LifeSystem [Priority2]
+3. Refactor LifeSystem [Priority1]
 
     - [ ] Decide what language to work with (probably C, C++)
     - [ ] Change all classes to reflect new programming language
