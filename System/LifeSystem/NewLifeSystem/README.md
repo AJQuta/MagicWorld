@@ -3,19 +3,21 @@
 ## Base Structure
 
 - LifeForm
-    - Animal
+    1. Animal
         * No Inventory
         * Cannot Attack
-    - Fighter
+        * No Knowledge
+    2. Fighter
         * Can Attack
-        - Player
+        1. Player
             * Has an Inventory
             * Has Knowledge
-        - Enemy
+        2. Enemy
             * Has a Weapon
-            - Boss
-            - MiniBoss [very low priority]
-    - NPCs
-        - QuestNPCs
-        - GenericNPCs
-        - ExchangeNPCs
+            * No Knowledge
+            1. Boss
+            2. MiniBoss [very low priority]
+    3. NPCs
+        1. QuestNPCs
+        2. GenericNPCs
+        3. ExchangeNPCs
