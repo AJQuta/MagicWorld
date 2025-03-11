@@ -27,7 +27,7 @@ A game made up of random smaller pieces of code I've created and various moments
 
 3. Refactor LifeSystem [Priority1]
 
-    - [ ] Decide what language to work with **Python**
+    - [x] Decide what language to work with **Python**
         - [ ] Set it up to make a web game later?
     - [ ] Change all classes to reflect new programming language
     - [ ] Add classes as necessary
