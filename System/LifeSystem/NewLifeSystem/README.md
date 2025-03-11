@@ -8,9 +8,8 @@
         - Player
         - Enemy
             - BossNPCs
-                - MiniBossNPCs [very low priority]
-        - AllyNPCs
-        - QuestNPCs
+            - MiniBossNPCs [very low priority]
     - NPCs
+        - QuestNPCs
         - GenericNPCs
         - ExchangeNPCs
