@@ -4,7 +4,7 @@ A game made up of random smaller pieces of code I've created and various moments
 
 ## Steps to Continue Working On:
 
-1. Complete PlayerSystem [Priority2]
+1. Complete PlayerSystem [Priority1]
 
     - [ ] Create PlayerClass to hold player information (stats, inventory, position, etc.)
     - [ ] Create KnowledgeSystem to keep track of known and discovered information about the world.
@@ -32,15 +32,15 @@ A game made up of random smaller pieces of code I've created and various moments
     - [ ] Change all classes to reflect new programming language
     - [ ] Add classes as necessary
 
-4. Create NPCSystem [Priority3]
+4. Create NPCSystem [Priority2]
 
-    - [ ] Complete GenericNPCs
+    - [x] Complete GenericNPCs
     - [ ] Complete QuestNPCs
     - [ ] Complete ExchangeNPCs
     - [ ] Complete Enemy
     - [ ] Complete Boss
 
-5. Create FightSystem [Priority4]
+5. Create FightSystem [Priority3]
     - [ ] Decide how a fight will be implemented (probably turn-based)
     - [ ] Create EncounterSystem
 
@@ -50,7 +50,7 @@ A game made up of random smaller pieces of code I've created and various moments
     - [ ] Create MapSystem
     - [ ] Create RoomSystem
 
-7. Create ItemSystem [Priority5]
+7. Create ItemSystem [Priority2]
     
     - [ ] Create Weapons
     - [ ] Create Potions
@@ -59,6 +59,7 @@ A game made up of random smaller pieces of code I've created and various moments
         - [ ] Create HealthPotions
         - [ ] Create ManaPotions
         - [ ] Create SightPotion
+    - [ ] Create Money
 
 8. Setup Text-Based Environment for Game [After Completing Everything Else]
 
