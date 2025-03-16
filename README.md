@@ -50,7 +50,7 @@ A game made up of random smaller pieces of code I've created and various moments
     - [ ] Create MapSystem
     - [ ] Create RoomSystem
 
-7. ~~Create ItemSystem~~ [Priority2]
+7. ~~Create ItemSystem [Priority2]~~
     
     - [x] Create Weapons
     - [x] Create Potions
