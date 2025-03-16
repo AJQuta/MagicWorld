@@ -50,16 +50,16 @@ A game made up of random smaller pieces of code I've created and various moments
     - [ ] Create MapSystem
     - [ ] Create RoomSystem
 
-7. Create ItemSystem [Priority2]
+~~7. Create ItemSystem~~ [Priority2]
     
-    - [ ] Create Weapons
-    - [ ] Create Potions
-        - [ ] Create StrengthPotions
-        - [ ] Create SpeedPotions
-        - [ ] Create HealthPotions
-        - [ ] Create ManaPotions
-        - [ ] Create SightPotion
-    - [ ] Create Money
+    - [x] Create Weapons
+    - [x] Create Potions
+        - [x] Create StrengthPotions
+        - [x] Create SpeedPotions
+        - [x] Create HealthPotions
+        - [x] Create ManaPotions
+        - [x] Create SightPotion
+    - [x] Create Money
 
 8. Setup Text-Based Environment for Game [After Completing Everything Else]
 

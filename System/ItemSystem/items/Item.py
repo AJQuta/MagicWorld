@@ -9,7 +9,7 @@ class Item:
             self.quantity = 0
 
     @abstractmethod
-    def __eq__(self, value):
+    def __eq__(self, value) -> bool:
         if isinstance(value, Item):
             return self.name == value.name
         elif isinstance(value, str):
