@@ -52,7 +52,7 @@ class Knowledge:
         cls.readings[reading] += 1 # * Increasing knowledge of reading between runs
 
     @classmethod
-    def elementKnown(cls, element: str) -> str:
+    def elementKnown(cls, element: str) -> bool:
         if element not in cls.elements or cls.elements[element] == 0:
             return False
         return True
