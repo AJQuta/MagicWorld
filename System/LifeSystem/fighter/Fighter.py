@@ -3,8 +3,6 @@ from ..LifeForm import LifeForm
 
 class Fighter(LifeForm):
 
-    
-
     def __init__(self, 
                  name: str, 
                  health: int, 
